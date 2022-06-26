@@ -1,6 +1,7 @@
 ## Olá sou o Marcus Rolim! 
 ## Administrador e formando em ciência da computação. 
 ## Trabalhando em meu primeiro emprego na área de desenvolvimento full-stack.
+## Repositório criado para compartilhar minha evolução como desenvolvedor em projetos autorais.
 
 <div align="center">
   <a href="https://github.com/marcusvrolim">
